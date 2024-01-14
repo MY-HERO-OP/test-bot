@@ -7,11 +7,12 @@
 ## Demo
 
 <div>
-  <img src="https://github.com/nuhmanpk/text2imagebot/blob/main/assests/text2image.gif" alt="Image" width="300"/>
+  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_22-44-24.jpg" alt="Image" width="300"/>
+  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-27.jpg" alt="Image" width="267"/>
   <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-22.jpg" alt="Image" width="267"/>
-  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-26.jpg" alt="Image" width="267"/>
-  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-25.jpg" alt="Image" width="267"/>
   <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-24.jpg" alt="Image" width="267"/>
+  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-25.jpg" alt="Image" width="267"/>
+  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-26.jpg" alt="Image" width="267"/>
 </div>
 
 [View more demos](https://github.com/nuhmanpk/text2imagebot/tree/17e23f59cff76acc8d8321512fb4b906a0d14fd8/assests) • [Contribute to the project](https://github.com/nuhmanpk/text2imagebot/fork) 
