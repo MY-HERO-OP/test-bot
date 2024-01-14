@@ -8,7 +8,6 @@
 
 <div>
   <img src="https://github.com/nuhmanpk/text2imagebot/blob/main/assests/text2image.gif" alt="Image" width="300"/>
-  <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_22-44-24.jpg" alt="gif-demo" width="267"/>
   <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-22.jpg" alt="Image" width="267"/>
   <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-26.jpg" alt="Image" width="267"/>
   <img src="https://github.com/SudoR2spr/text2imagebot/blob/main/assests/photo_2023-10-30_23-15-25.jpg" alt="Image" width="267"/>
