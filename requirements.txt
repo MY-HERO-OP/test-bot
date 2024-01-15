@@ -3,6 +3,6 @@ tgcrypto
 huggingface
 diffusers 
 transformers 
-accelerate==0.26.1
+python-accelerate
 torch==2.1.2
 python-dotenv
