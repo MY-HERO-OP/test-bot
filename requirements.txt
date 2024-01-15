@@ -4,5 +4,5 @@ huggingface
 diffusers 
 transformers 
 python-accelerate
-torch==2.1.2
+torch
 python-dotenv
