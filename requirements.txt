@@ -4,5 +4,4 @@ huggingface
 diffusers 
 transformers 
 python-accelerate
-torch
 python-dotenv
