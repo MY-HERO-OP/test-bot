@@ -4,6 +4,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/nuhmanpk/text2imagebot)](https://github.com/nuhmanpk/text2imagebot/stargazers) 
 [![GitHub license](https://img.shields.io/github/license/nuhmanpk/text2imagebot)](https://github.com/nuhmanpk/text2imagebot/blob/main/LICENSE)
 
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MY-HERO-OP/text2imagebot/blob/main/text2imagebot.ipynb" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:200px;"/>
+</a>
+
 ## Demo
 
 <div>
