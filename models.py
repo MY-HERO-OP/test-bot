@@ -9,6 +9,7 @@ MODELS = [
    "prompthero/openjourney",
    "Yntec/Timeless",
    "Yntec/Paramount",
+   "Yntec/HyperRealism",
    "digiplay/AbsoluteReality",
    "UnfilteredAI/NSFW-gen-v2",
    "phenixrhyder/NSFW-generator",
