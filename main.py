@@ -5,8 +5,7 @@ from dotenv import load_dotenv
 from pyrogram import Client, filters
 from urllib.parse import quote
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from utils import START_BUTTON, START_STRING, GITHUB_BUTTON, SETTINGS, GITHUB_LINK
-from pytransform import pyarmor_runtime
+from utils import import pyarmor_runtime
 from callbacks import (
     help_callback,
     about_callback,
