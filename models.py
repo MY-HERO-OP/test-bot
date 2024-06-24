@@ -18,6 +18,7 @@ MODELS = [
    "UnfilteredAI/NSFW-gen-v2",
    "Nymbo/NSFW-generator",
    "stablediffusionapi/mklan-xxx-nsfw-pony",
+   "Bambambimbam/stablediffusionapi-mklan-xxx-nsfw-pony",
    "stabilityai/stable-diffusion-xl-base-1.0",
 ]
 
