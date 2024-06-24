@@ -7,7 +7,8 @@ models = os.getenv("MODELS")
 
 MODELS = [
    "prompthero/openjourney",
-   "digiplay/AbsoluteReality_v1.8.1",
+   "digiplay/AbsoluteReality",
+   "UnfilteredAI/NSFW-gen-v2",
    "phenixrhyder/NSFW-generator",
    "digiplay/MengX_Mix_Fantasy_v4",
    "Nymbo/NSFW-generator",
