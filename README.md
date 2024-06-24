@@ -6,7 +6,7 @@
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MY-HERO-OP/text2imagebot/blob/main/text2imagebot.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/MY-HERO-OP/text2imagebot/blob/main/text2imagebot.ipynb" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:200px;"/>
 </a>
 
