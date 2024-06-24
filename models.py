@@ -13,6 +13,7 @@ MODELS = [
    "digiplay/MengX_Mix_Fantasy_v4",
    "Yntec/CyberRealistic",
    "Yntec/NaughtyChildren",
+   "sakura002/NSFW-Img",
    "Nymbo/NSFW-generator",
    "stabilityai/stable-diffusion-xl-base-1.0",
 ]
