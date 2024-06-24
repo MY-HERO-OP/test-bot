@@ -25,7 +25,7 @@ MODELS = [
    "Yntec/edgeOfRealism",
    "segmind/SSD-1B",
    "digiplay/Juggernaut_final",
-   "Nymbo/PrintingPress",
+   "digiplay/Yuzu_v1.1",
    "stabilityai/stable-diffusion-xl-base-1.0",
 ]
 
