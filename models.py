@@ -11,6 +11,7 @@ MODELS = [
    "UnfilteredAI/NSFW-gen-v2",
    "phenixrhyder/NSFW-generator",
    "digiplay/MengX_Mix_Fantasy_v4",
+   "Malary/Mala-Anime-Mix-NSFW-PonyXL",
    "Yntec/CyberRealistic",
    "Yntec/NaughtyChildren",
    "sakura002/NSFW-Img",
