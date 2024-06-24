@@ -25,7 +25,7 @@ MODELS = [
    "Yntec/edgeOfRealism",
    "segmind/SSD-1B",
    "digiplay/Juggernaut_final",
-   "PartyPlus/PornGen",
+   "Nymbo/PrintingPress",
    "stabilityai/stable-diffusion-xl-base-1.0",
 ]
 
