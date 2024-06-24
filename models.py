@@ -11,6 +11,7 @@ MODELS = [
    "UnfilteredAI/NSFW-gen-v2",
    "phenixrhyder/NSFW-generator",
    "digiplay/MengX_Mix_Fantasy_v4",
+   "Yntec/CyberRealistic",
    "Nymbo/NSFW-generator",
    "stabilityai/stable-diffusion-xl-base-1.0",
 ]
