@@ -6,4 +6,3 @@ transformers
 python-accelerate
 torch
 python-dotenv
-pyarmor
