@@ -14,6 +14,7 @@ MODELS = [
    "Yntec/CyberRealistic",
    "Yntec/NaughtyChildren",
    "sakura002/NSFW-Img",
+   "UnfilteredAI/NSFW-gen-v2",
    "Nymbo/NSFW-generator",
    "stabilityai/stable-diffusion-xl-base-1.0",
 ]
